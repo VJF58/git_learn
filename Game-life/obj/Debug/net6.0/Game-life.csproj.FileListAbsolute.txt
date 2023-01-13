@@ -1,0 +1,15 @@
+C:\Users\UserName\Desktop\Work4.8\Game-life\bin\Debug\net6.0\Game-life.exe
+C:\Users\UserName\Desktop\Work4.8\Game-life\bin\Debug\net6.0\Game-life.deps.json
+C:\Users\UserName\Desktop\Work4.8\Game-life\bin\Debug\net6.0\Game-life.runtimeconfig.json
+C:\Users\UserName\Desktop\Work4.8\Game-life\bin\Debug\net6.0\Game-life.dll
+C:\Users\UserName\Desktop\Work4.8\Game-life\bin\Debug\net6.0\Game-life.pdb
+C:\Users\UserName\Desktop\Work4.8\Game-life\obj\Debug\net6.0\Game-life.csproj.AssemblyReference.cache
+C:\Users\UserName\Desktop\Work4.8\Game-life\obj\Debug\net6.0\Game-life.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UserName\Desktop\Work4.8\Game-life\obj\Debug\net6.0\Game-life.AssemblyInfoInputs.cache
+C:\Users\UserName\Desktop\Work4.8\Game-life\obj\Debug\net6.0\Game-life.AssemblyInfo.cs
+C:\Users\UserName\Desktop\Work4.8\Game-life\obj\Debug\net6.0\Game-life.csproj.CoreCompileInputs.cache
+C:\Users\UserName\Desktop\Work4.8\Game-life\obj\Debug\net6.0\Game-life.dll
+C:\Users\UserName\Desktop\Work4.8\Game-life\obj\Debug\net6.0\refint\Game-life.dll
+C:\Users\UserName\Desktop\Work4.8\Game-life\obj\Debug\net6.0\Game-life.pdb
+C:\Users\UserName\Desktop\Work4.8\Game-life\obj\Debug\net6.0\Game-life.genruntimeconfig.cache
+C:\Users\UserName\Desktop\Work4.8\Game-life\obj\Debug\net6.0\ref\Game-life.dll

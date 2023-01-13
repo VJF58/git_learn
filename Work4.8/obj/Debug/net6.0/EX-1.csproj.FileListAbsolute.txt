@@ -1,0 +1,15 @@
+C:\Users\UserName\Desktop\Work4.8\Work4.8\bin\Debug\net6.0\EX-1.exe
+C:\Users\UserName\Desktop\Work4.8\Work4.8\bin\Debug\net6.0\EX-1.deps.json
+C:\Users\UserName\Desktop\Work4.8\Work4.8\bin\Debug\net6.0\EX-1.runtimeconfig.json
+C:\Users\UserName\Desktop\Work4.8\Work4.8\bin\Debug\net6.0\EX-1.dll
+C:\Users\UserName\Desktop\Work4.8\Work4.8\bin\Debug\net6.0\EX-1.pdb
+C:\Users\UserName\Desktop\Work4.8\Work4.8\obj\Debug\net6.0\EX-1.csproj.AssemblyReference.cache
+C:\Users\UserName\Desktop\Work4.8\Work4.8\obj\Debug\net6.0\EX-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UserName\Desktop\Work4.8\Work4.8\obj\Debug\net6.0\EX-1.AssemblyInfoInputs.cache
+C:\Users\UserName\Desktop\Work4.8\Work4.8\obj\Debug\net6.0\EX-1.AssemblyInfo.cs
+C:\Users\UserName\Desktop\Work4.8\Work4.8\obj\Debug\net6.0\EX-1.csproj.CoreCompileInputs.cache
+C:\Users\UserName\Desktop\Work4.8\Work4.8\obj\Debug\net6.0\EX-1.dll
+C:\Users\UserName\Desktop\Work4.8\Work4.8\obj\Debug\net6.0\refint\EX-1.dll
+C:\Users\UserName\Desktop\Work4.8\Work4.8\obj\Debug\net6.0\EX-1.pdb
+C:\Users\UserName\Desktop\Work4.8\Work4.8\obj\Debug\net6.0\EX-1.genruntimeconfig.cache
+C:\Users\UserName\Desktop\Work4.8\Work4.8\obj\Debug\net6.0\ref\EX-1.dll

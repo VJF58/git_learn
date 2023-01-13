@@ -1,0 +1,15 @@
+C:\Users\UserName\Desktop\Work4.8\EX-2\bin\Debug\net6.0\EX-2.exe
+C:\Users\UserName\Desktop\Work4.8\EX-2\bin\Debug\net6.0\EX-2.deps.json
+C:\Users\UserName\Desktop\Work4.8\EX-2\bin\Debug\net6.0\EX-2.runtimeconfig.json
+C:\Users\UserName\Desktop\Work4.8\EX-2\bin\Debug\net6.0\EX-2.dll
+C:\Users\UserName\Desktop\Work4.8\EX-2\bin\Debug\net6.0\EX-2.pdb
+C:\Users\UserName\Desktop\Work4.8\EX-2\obj\Debug\net6.0\EX-2.csproj.AssemblyReference.cache
+C:\Users\UserName\Desktop\Work4.8\EX-2\obj\Debug\net6.0\EX-2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UserName\Desktop\Work4.8\EX-2\obj\Debug\net6.0\EX-2.AssemblyInfoInputs.cache
+C:\Users\UserName\Desktop\Work4.8\EX-2\obj\Debug\net6.0\EX-2.AssemblyInfo.cs
+C:\Users\UserName\Desktop\Work4.8\EX-2\obj\Debug\net6.0\EX-2.csproj.CoreCompileInputs.cache
+C:\Users\UserName\Desktop\Work4.8\EX-2\obj\Debug\net6.0\EX-2.dll
+C:\Users\UserName\Desktop\Work4.8\EX-2\obj\Debug\net6.0\refint\EX-2.dll
+C:\Users\UserName\Desktop\Work4.8\EX-2\obj\Debug\net6.0\EX-2.pdb
+C:\Users\UserName\Desktop\Work4.8\EX-2\obj\Debug\net6.0\EX-2.genruntimeconfig.cache
+C:\Users\UserName\Desktop\Work4.8\EX-2\obj\Debug\net6.0\ref\EX-2.dll
