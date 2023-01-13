@@ -1,4 +1,4 @@
-﻿Console.Write("Введите количество строк: ");
+﻿Console.Write("Введите количество строк: "); //Тестирую гит(комментарий не имеет смысла)
 int strings = int.Parse(Console.ReadLine());
 
 Console.Write("Введите количество столбцов: ");
